@@ -1,0 +1,18 @@
+{
+  "name": "jquery-inputs",
+  "version": "0.0.1",
+  
+  "main": ["jquery.inputs.js"],
+  "keywords": [
+    "jquery.inputs.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
